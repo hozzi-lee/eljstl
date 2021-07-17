@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 
 <%@ page import="vo.UserVo" %>
-s
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,7 +10,7 @@ s
 <title>Insert title here</title>
 </head>
 <body>
-&lt; &gt;
+
 	<h1>request.getAttribute 값 꺼내쓰기</h1>
 	
 	<h2>자바문법</h2>
